@@ -9,7 +9,7 @@ import elderabuse from "../../assets/elderabuse.svg"
 
 const AreaOfPractices = () => {
     return (
-        <div className='areaofpractices'>
+        <div className='practice'>
             <h1>Area of Practices</h1>
             <div className='imgcontainer'>
                 <div className='grid'>
