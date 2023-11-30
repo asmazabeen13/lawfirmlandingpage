@@ -32,7 +32,7 @@ const Reviews = () => {
             <Carousel responsive={responsive} infinite={true} showDots={false} showStatus={false}>
                 <div className='cardscontainer'>
                     <div className='cards'>
-                        <img src={jane} alt="kunalborkar2001@gmail.com" />
+                        <img src={jane} alt="asmazabeen13@gmail.com" />
                         <h5>100% Success Rate</h5>
                         <p>Ceo of Hunt</p>
                         <p>Amet minim mollit non deserunt ullamco est
@@ -40,7 +40,7 @@ const Reviews = () => {
                             consequatduis enim velit mollit Exer.</p>
                     </div>
                     <div className='cards secondcard'>
-                        <img src={devon} alt="kunalborkar2001@gmail.com" />
+                        <img src={devon} alt="asmazabeen13@gmail.com" />
                         <h5>100% Success Rate</h5>
                         <p>Ceo of Hunt</p>
                         <p>Amet minim mollit non deserunt ullamco est
@@ -48,7 +48,7 @@ const Reviews = () => {
                             consequatduis enim velit mollit Exer.</p>
                     </div>
                     <div className='cards'>
-                        <img src={robert} alt="kunalborkar2001@gmail.com" />
+                        <img src={robert} alt="asmazabeen13@gmail.com" />
                         <h5>100% Success Rate</h5>
                         <p>Ceo of Hunt</p>
                         <p>Amet minim mollit non deserunt ullamco est
@@ -58,7 +58,7 @@ const Reviews = () => {
                 </div>
                 <div className='cardscontainer'>
                     <div className='cards'>
-                        <img src={gift} alt="kunalborkar2001@gmail.com" />
+                        <img src={gift} alt="asmazabeen13@gmail.com" />
                         <h5>100% Success Rate</h5>
                         <p>Ceo of Hunt</p>
                         <p>Amet minim mollit non deserunt ullamco est
@@ -66,7 +66,7 @@ const Reviews = () => {
                             consequatduis enim velit mollit Exer.</p>
                     </div>
                     <div className='cards secondcard'>
-                        <img src={gift} alt="kunalborkar2001@gmail.com" />
+                        <img src={gift} alt="asmazabeen13@gmail.com" />
                         <h5>100% Success Rate</h5>
                         <p>Ceo of Hunt</p>
                         <p>Amet minim mollit non deserunt ullamco est
@@ -74,7 +74,7 @@ const Reviews = () => {
                             consequatduis enim velit mollit Exer.</p>
                     </div>
                     <div className='cards'>
-                        <img src={gift} alt="kunalborkar2001@gmail.com" />
+                        <img src={gift} alt="asmazabeen13@gmail.com" />
                         <h5>100% Success Rate</h5>
                         <p>Ceo of Hunt</p>
                         <p>Amet minim mollit non deserunt ullamco est
