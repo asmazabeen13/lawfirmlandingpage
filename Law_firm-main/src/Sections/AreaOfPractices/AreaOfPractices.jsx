@@ -14,31 +14,31 @@ const AreaOfPractices = () => {
             <div className='imgcontainer'>
                 <div className='grid'>
                     <div style={{ position: "relative" }}>
-                        <img className='bigimg' src={business} alt="kunalborkar2001@gmail.com" />
+                        <img className='bigimage' src={business} alt="asmazabeen13@gmail.com" />
                         <p className='under'>BUSINESS LAW</p>
                     </div>
                     <div style={{ position: "relative" }}>
-                        <img className='smallimg' src={partnership} alt="kunalborkar2001@gmail.com" />
+                        <img className='smallimage' src={partnership} alt="asmazabeen13@gmail.com" />
                         <p className='under'>PARTNERSHIP LAW</p>
                     </div>
                 </div>
                 <div className='grid'>
                     <div style={{ position: "relative" }}>
-                        <img className='smallimg' src={realestate} alt="kunalborkar2001@gmail.com" />
+                        <img className='smallimage' src={realestate} alt="asmazabeen13@gmail.com" />
                         <p className='under'>REAL ESTATE LAW</p>
                     </div>
                     <div style={{ position: "relative" }}>
-                        <img className='bigimg' src={business} alt="kunalborkar2001@gmail.com" />
+                        <img className='bigimage' src={business} alt="asmazabeen13@gmail.com" />
                         <p className='under'>BUSINESS LAW</p>
                     </div>
                 </div>
                 <div className='grid'>
                     <div style={{ position: "relative" }}>
-                        <img className='bigimg' src={landlord} alt="kunalborkar2001@gmail.com" />
+                        <img className='bigimage' src={landlord} alt="asmazabeen13@gmail.com" />
                         <p className='under'>LANDLORD DISPUTES</p>
                     </div>
                     <div style={{ position: "relative" }}>
-                        <img className='smallimg' src={elderabuse} alt="kunalborkar2001@gmail.com" />
+                        <img className='smallimage' src={elderabuse} alt="asmazabeen13@gmail.com" />
                         <p className='under'>ELDER ABUSE</p>
                     </div>
 
