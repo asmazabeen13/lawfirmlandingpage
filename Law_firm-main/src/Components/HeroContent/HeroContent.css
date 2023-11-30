@@ -5,34 +5,35 @@
     justify-content: center;
     background-color: #000;
     gap: 90px;
+    margin-top:100px;
 }
 
-.leftcontent {
+.content {
     background: #000;
 }
 
-.herocontent .leftcontent span{
+.herocontent .content span{
     font-weight: 900;
     background-color: #000;
 
 }
 
 
-.herocontent .leftcontent h1{
+.herocontent .content h1{
     font-size: 4.3rem;
     margin-bottom: 20px;
     background-color: #000;
 
     
 }
-.herocontent .leftcontent p {
+.herocontent .content p {
     color: gray;
     margin-bottom: 20px;
     background-color: #000;
 
 }
 
-.input-container {
+.container {
     display: flex;
     align-items: center;
     position: relative;
@@ -44,7 +45,7 @@
     
   }
   
-  .input-container input {
+  .container input {
     padding: 10px;
     /* border: 1px solid #ccc; */
     border-radius: 4px;
@@ -54,7 +55,7 @@
     border: none;
   }
   
-  .input-container button {
+  .container button {
     background-color: var(--css-primary);
     color: #fff;
     border: none;
