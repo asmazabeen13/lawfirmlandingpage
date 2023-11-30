@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="footer">
             <div className="topsection">
                 <div className="left">
-                    <img style={{background : "#000"}} src={logo} alt="kunalborkar2001@gmail.com" />
+                    <img style={{background : "#000"}} src={logo} alt="asmazabeen13@gmail.com" />
                     <p>IGSTUDIO</p>
                 </div>
                 <div className="mid">
