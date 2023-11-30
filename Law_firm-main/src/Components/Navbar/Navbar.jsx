@@ -6,16 +6,16 @@ const Navbar = () => {
   return (
     <div className='navbar'>
         <div className='navlogo'>
-            <img src={logo} alt="kunalborkar2001@gmail.com" />
+            <img src={logo} alt="asmazabeen13@gmail.com" />
             <p>IGSTUDIO</p>
         </div>
-        <div className='navmid'>
+        <div className='midnav'>
             <p>Home</p>
             <p>Attorneys</p>
             <p>Practice Areas</p>
             <p>About Us</p>
         </div>
-        <div className='navend'>
+        <div className='endnav'>
             <button>Contact Now</button>
         </div>
     </div>
